@@ -1,2 +1,2 @@
-model_checkpoint_path: "cyclegan_checkpoints_020"
-all_model_checkpoint_paths: "cyclegan_checkpoints_020"
+model_checkpoint_path: "cyclegan_checkpoints_059"
+all_model_checkpoint_paths: "cyclegan_checkpoints_059"
